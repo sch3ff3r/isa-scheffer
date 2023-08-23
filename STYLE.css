@@ -2,6 +2,11 @@
       background: #CCCCCC;
  }
 
+
+.principal{
+ background: #b8b6b6;
+ padding: 30px;
+}
   p { 
     text-align: center;
    font-size: 20 px;
@@ -15,6 +20,14 @@ em strong {
   color: #FF0000
 }
 #missao {
+font-size: 30px
+}
+
+#banner { 
+ width: 100% ;
+}
+
+ 
   font-size: 30px
 }
 #banner { 
