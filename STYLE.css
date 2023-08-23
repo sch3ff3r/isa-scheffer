@@ -23,6 +23,31 @@ em strong {
 font-size: 30px
 }
 
+.itens {
+ font-style: italic;
+}
+
+
+.beneficios { 
+ background: #FFFFFF;
+ padding: 20px;
+}
+
+h2 {
+ text-aling: center;
+}
+
+ul {
+ display: inline-block;
+ vertical-aling: top; 
+ width: 20%;
+ margin-right: 15%;
+}
+
+.imagembeneficios {
+ width: 50%;
+}
+  
 #banner { 
  width: 100% ;
 }
