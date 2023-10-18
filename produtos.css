@@ -5,7 +5,7 @@ header {
 
 nav { 
   position:absolute ;
-  top: 110px
+  top: 110px;
     right: 0; 
 }
 
@@ -26,4 +26,22 @@ text-transform: uppercase:}
   width: 940px;
   position: relative;
   margin: 0 auto;
+}
+
+.produtos li{
+  display: inline-block;
+  text-aling:center; 
+  width:30%;
+  vertical-aling: toṕ; 
+}
+
+.produtos {
+  width: 940px; 
+  margin: 0 auto;
+  padding: 50 px 0;
+}
+
+.produtos h2 { 
+font-size: 30px;
+  font-weight: bold;
 }
