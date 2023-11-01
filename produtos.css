@@ -1,6 +1,6 @@
 header { 
   background: #f19dd6;
-  pedding: 20px 0;
+  padding: 20px 0;
 }
 
 nav { 
@@ -15,9 +15,9 @@ nav li {
 }
 
 nav a { 
-text-transform: uppercase:}
-  color: 000000;
-  font-weigth: bold;
+text-transform: uppercase; }
+  color: #000000;
+  font-weight: bold;
   font-size: 22px;
   text-decoration: none;
 } 
@@ -30,9 +30,9 @@ text-transform: uppercase:}
 
 .produtos li{
   display: inline-block;
-  text-aling:center; 
+  text-align:center; 
   width:30%;
-  vertical-aling: toṕ; 
+  vertical-align: toṕ; 
   background:#CCCCCC;
   margin: 0 1.5%;
   padding: 30px 20px;
@@ -42,7 +42,7 @@ text-transform: uppercase:}
 .produtos {
   width: 940px; 
   margin: 0 auto;
-  padding: 50 px 0;
+  padding:50px 0;
 }
 
 .produtos h2 { 
