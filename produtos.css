@@ -1,5 +1,5 @@
 header { 
-  background: #f19dd6;
+  background: #c78e5f;
   padding: 20px 0;
 }
 
@@ -21,12 +21,6 @@ text-transform: uppercase; }
   font-size: 22px;
   text-decoration: none;
 } 
-
-.caixa {
-  width: 940px;
-  position: relative;
-  margin: 0 auto;
-}
 
 .produtos li{
   display: inline-block;
